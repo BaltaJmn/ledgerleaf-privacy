@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://ledgerleaf.baltajmn.dev/sitemap.xml
